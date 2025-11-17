@@ -6,7 +6,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <h2>📘 Jadwal Otomatis Dosen Allena</h2>
+
     <a href="tambah.php">+ Tambah Jadwal Dosen</a>
     <br><br>
     <table border="1" cellpadding="8" cellspacing="0">
@@ -40,4 +42,12 @@
         <?php } ?>
     </table>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+<<<<<<< HEAD
+</html>
+=======
+</html>
+>>>>>>> e18855d417adfb7e95029652fa99fd5548b697c6
+>>>>>>> d64970fbf0e0c55663e621963466b6f4db11617d
