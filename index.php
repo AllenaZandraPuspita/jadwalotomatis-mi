@@ -19,6 +19,7 @@
             <th>Jam</th>
             <th>Ruang</th>
             <th>Aksi</th>
+            <th>fitri adi nugroho</th>
         </tr>
         <?php
         include 'koneksi.php';
@@ -43,6 +44,10 @@
 </body>
 <<<<<<< HEAD
 </html>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+</html>
 =======
 <<<<<<< HEAD
 </html>
@@ -50,3 +55,6 @@
 </html>
 >>>>>>> e18855d417adfb7e95029652fa99fd5548b697c6
 >>>>>>> d64970fbf0e0c55663e621963466b6f4db11617d
+>>>>>>> 90bb9f259b49ca3228763c1dd6f689cdac08bc1d
+=======
+>>>>>>> fitri
