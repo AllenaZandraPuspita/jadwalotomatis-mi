@@ -18,6 +18,7 @@
             <th>Jam</th>
             <th>Ruang</th>
             <th>Aksi</th>
+            <th>fitri adi nugroho</th>
         </tr>
         <?php
         include 'koneksi.php';
