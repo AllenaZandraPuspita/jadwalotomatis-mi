@@ -2,21 +2,11 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-<<<<<<< HEAD
     <title>Jadwal Otomatis Dosen</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>📘 Jadwal Otomatis Dosen</h2>
-=======
-    <title>Jadwal Otomatis Dosen allena</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <h2>📘 Jadwal Otomatis Dosen Allena</h2>
-
->>>>>>> 90bb9f259b49ca3228763c1dd6f689cdac08bc1d
+    <h2>📘 Jadwal Otomatis Dosen fitri adi nugroho</h2>
     <a href="tambah.php">+ Tambah Jadwal Dosen</a>
     <br><br>
     <table border="1" cellpadding="8" cellspacing="0">
@@ -28,6 +18,7 @@
             <th>Jam</th>
             <th>Ruang</th>
             <th>Aksi</th>
+            <th>fitri adi nugroho</th>
         </tr>
         <?php
         include 'koneksi.php';
