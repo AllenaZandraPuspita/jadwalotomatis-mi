@@ -7,6 +7,7 @@
 </head>
 <body>
     <h2>📘 Jadwal Otomatis Dosen fitri adi nugroho</h2>
+
     <a href="tambah.php">+ Tambah Jadwal Dosen</a>
     <br><br>
     <table border="1" cellpadding="8" cellspacing="0">
@@ -40,4 +41,8 @@
         <?php } ?>
     </table>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> e18855d417adfb7e95029652fa99fd5548b697c6
