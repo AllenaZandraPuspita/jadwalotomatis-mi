@@ -36,12 +36,16 @@
             <td><?= $d['ruang']; ?></td>
             <td>
                 <a href="edit.php?id=<?= $d['id']; ?>">Edit</a> |
-                <a href="hapus.php?id=<?= $d['id']; ?>" onclick="return confirm('Yakin ingin hapus data ini?')">Hapus</a>
-            </td>
-        </tr>
-        <?php } ?>
-    </table>
-</body>
+                <a href="hapus.php?id=<?= $d['id']; ?>" onclick="return confirm('Yakin ingin hapus data ini?')">Hapus</a>
+            </td>
+        </tr>
+        <?php } ?>
+    </table>
+
+    <footer>
+        <p>&copy; 2025 Program Studi Manajemen Informatika. Dokumen ini diverifikasi oleh Allena.</p>
+    </footer>
+    </body>
 <<<<<<< HEAD
 </html>
 =======
