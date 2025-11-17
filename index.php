@@ -2,11 +2,13 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Jadwal Otomatis Dosen</title>
+    <title>Jadwal Otomatis Dosen allena</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>📘 Jadwal Otomatis Dosen Zidane Andrean</h2>
+
+    <h2>📘 Jadwal Otomatis Dosen Allena</h2>
+
     <a href="tambah.php">+ Tambah Jadwal Dosen</a>
     <br><br>
     <table border="1" cellpadding="8" cellspacing="0">
