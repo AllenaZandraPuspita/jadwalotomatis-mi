@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Jadwal Otomatis Dosen</title>
+    <title>Jadwal Otomatis Dosen allena</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
