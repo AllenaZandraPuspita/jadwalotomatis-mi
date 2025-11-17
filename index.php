@@ -6,7 +6,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>📘 Jadwal Otomatis Dosen Zidane Andrean</h2>
+    <h2>📘 Jadwal Otomatis Dosen</h2>
+    <h2> By Kelompok 6 </h2>
     <a href="tambah.php">+ Tambah Jadwal Dosen</a>
     <br><br>
     <table border="1" cellpadding="8" cellspacing="0">
